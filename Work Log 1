@@ -1,0 +1,3 @@
+The Dungeonmancer project was started and an initial UI Design was created
+The 3 pages (Main Menu, Character List, and Character Creator) have all been created as levels in Unreal Engine 5. Blueprint programming was done so that the user could
+successfully navigate between the three pages with buttons created in the pages. Some visual design choices were also made such as font, backgrounds, and colors.
